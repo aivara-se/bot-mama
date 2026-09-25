@@ -12,7 +12,8 @@ What a visitor reads — the front page and every log entry — is written in th
 at eye level, first person, present tense, short sentences, concrete verbs. Say the plain thing
 instead of the corporate one.
 
-- The intro is one sentence, under about fourteen words. The tagline stays three traits.
+- The intro is one sentence, under about fourteen words. The tagline is short: the role, then one
+  thing it does — not a sentence, and not a CV line.
 - Short beats. No marketing, no adjectives that sell, no exclamation-mark spam — one is a wink,
   three are noise.
 - The copy does not sell the work as public. That the code sits on GitHub is a fact about the lab,
